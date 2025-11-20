@@ -1,0 +1,11 @@
+{
+  "name": {
+    "message": "Reclaim.ai Smart New Tab"
+  },
+  "short_name": {
+    "message": "Reclaim New Tab"
+  },
+  "description": {
+    "message": "Opens Reclaim.ai in a new tab only if it is not already open."
+  }
+}
