@@ -20,3 +20,8 @@ screenshots/
 *.pem
 screenshot-1280x800.png
 2025-11-20_19-37.png
+create_and_push_repo.sh
+.env
+*.env
+.env.*
+*.sh
